@@ -1,0 +1,7 @@
+prefix=/home/rgukt/Desktop/DataProj/End-To_End-ML-Proj/wine
+includedir=${prefix}/include
+
+Name: DamageProto
+Description: Damage extension headers
+Version: 1.2.1
+Cflags: -I${includedir}

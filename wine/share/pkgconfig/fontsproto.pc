@@ -1,0 +1,7 @@
+prefix=/home/rgukt/Desktop/DataProj/End-To_End-ML-Proj/wine
+includedir=${prefix}/include
+ 
+Name: FontsProto
+Description: Fonts extension headers
+Version: 2.1.3
+Cflags: -I${includedir}
